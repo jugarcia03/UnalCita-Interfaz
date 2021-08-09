@@ -7,10 +7,13 @@ package Capa;
 
 /**
  *
- * @author EDWIN
+ * @author SEBASTIAN
  */
-class facultad {
-    String Ingenieria;
-    String Artes;
+public class AppLogin {
     
-}
+    public static void main(String [] args){
+    FrmLogeo abrir = new FrmLogeo();
+    abrir.setVisible(true);
+    }
+    }
+
